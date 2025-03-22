@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Gamegnu\Gamegnu\bin\Debug\net8.0\Gamegnu.exe
+C:\Users\User\source\repos\Gamegnu\Gamegnu\bin\Debug\net8.0\Gamegnu.deps.json
+C:\Users\User\source\repos\Gamegnu\Gamegnu\bin\Debug\net8.0\Gamegnu.runtimeconfig.json
+C:\Users\User\source\repos\Gamegnu\Gamegnu\bin\Debug\net8.0\Gamegnu.dll
+C:\Users\User\source\repos\Gamegnu\Gamegnu\bin\Debug\net8.0\Gamegnu.pdb
+C:\Users\User\source\repos\Gamegnu\Gamegnu\obj\Debug\net8.0\Gamegnu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Gamegnu\Gamegnu\obj\Debug\net8.0\Gamegnu.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Gamegnu\Gamegnu\obj\Debug\net8.0\Gamegnu.AssemblyInfo.cs
+C:\Users\User\source\repos\Gamegnu\Gamegnu\obj\Debug\net8.0\Gamegnu.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Gamegnu\Gamegnu\obj\Debug\net8.0\Gamegnu.dll
+C:\Users\User\source\repos\Gamegnu\Gamegnu\obj\Debug\net8.0\refint\Gamegnu.dll
+C:\Users\User\source\repos\Gamegnu\Gamegnu\obj\Debug\net8.0\Gamegnu.pdb
+C:\Users\User\source\repos\Gamegnu\Gamegnu\obj\Debug\net8.0\Gamegnu.genruntimeconfig.cache
+C:\Users\User\source\repos\Gamegnu\Gamegnu\obj\Debug\net8.0\ref\Gamegnu.dll

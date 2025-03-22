@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Gamegnu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5886C550-D962-4096-A00F-23C1D95C0443}|Gamegnu\\Gamegnu.csproj|c:\\users\\user\\source\\repos\\gamegnu\\gamegnu\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5886C550-D962-4096-A00F-23C1D95C0443}|Gamegnu\\Gamegnu.csproj|solutionrelative:gamegnu\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5886C550-D962-4096-A00F-23C1D95C0443}|Gamegnu\\Gamegnu.csproj|c:\\users\\user\\source\\repos\\gamegnu\\gamegnu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5886C550-D962-4096-A00F-23C1D95C0443}|Gamegnu\\Gamegnu.csproj|solutionrelative:gamegnu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5886C550-D962-4096-A00F-23C1D95C0443}|Gamegnu\\Gamegnu.csproj|c:\\users\\user\\source\\repos\\gamegnu\\gamegnu\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5886C550-D962-4096-A00F-23C1D95C0443}|Gamegnu\\Gamegnu.csproj|solutionrelative:gamegnu\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5886C550-D962-4096-A00F-23C1D95C0443}|Gamegnu\\Gamegnu.csproj|c:\\users\\user\\source\\repos\\gamegnu\\gamegnu\\gameloop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5886C550-D962-4096-A00F-23C1D95C0443}|Gamegnu\\Gamegnu.csproj|solutionrelative:gamegnu\\gameloop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 250,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Gamegnu\\Gamegnu\\Player.cs",
+              "RelativeDocumentMoniker": "Gamegnu\\Player.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Gamegnu\\Gamegnu\\Player.cs",
+              "RelativeToolTip": "Gamegnu\\Player.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T08:53:58.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameLoop.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Gamegnu\\Gamegnu\\GameLoop.cs",
+              "RelativeDocumentMoniker": "Gamegnu\\GameLoop.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Gamegnu\\Gamegnu\\GameLoop.cs",
+              "RelativeToolTip": "Gamegnu\\GameLoop.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAJAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T08:53:25.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Table.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Gamegnu\\Gamegnu\\Table.cs",
+              "RelativeDocumentMoniker": "Gamegnu\\Table.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Gamegnu\\Gamegnu\\Table.cs",
+              "RelativeToolTip": "Gamegnu\\Table.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T08:53:08.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Gamegnu\\Gamegnu\\Program.cs",
+              "RelativeDocumentMoniker": "Gamegnu\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Gamegnu\\Gamegnu\\Program.cs",
+              "RelativeToolTip": "Gamegnu\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T08:50:51.639Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
